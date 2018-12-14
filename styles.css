@@ -1,3 +1,69 @@
 body {
-    background-image:url""https://d1whtlypfis84e.cloudfront.net/guides/wp-content/uploads/2018/03/08044600/Basic_equilateral_triangle.svg_-300x261.png">
+    background-color: lightblue;
   }
+  
+  h1 {
+    color: black;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  ody {
+    background-color: lightseagreen;
+  }
+  
+  .table1 {
+    width: 500px;
+    height: 80px;
+    border: solid blue;
+    text-align: center;
+  }
+  
+  .table2 {
+    border: solid blue;
+    width: 500px;
+    height: 80px;
+    text-align: center;
+  }
+  
+  .table3 {
+    border: solid blue;
+    width: 500px;
+    height: 80px;
+    text-align: center;
+  }
+  
+  .table4 {
+    border: solid red;
+    width: 500px;
+    height: 80px;
+    text-align: center;
+  }
+  .triangle {
+    display: block;
+    margin: auto;
+    width: 50%;
+    border: solid green;
+    padding: 30px;
+    position: center;
+  }
+  
+  h2 {
+    color: black;
+    text-align: center;
+    font-size: 26px;
+  }
+  h3 {
+    color: black;
+    text-align: center;
+    font-size: 26px;
+    font-family: sans-serif;
+  }
+  p {
+    font-size: 23px;
+    font-family: serif;
+    font-style: italic;
+    
