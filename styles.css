@@ -51,14 +51,7 @@ button:active {
     box-shadow: 0 5px maroon;
   transform: translateY(4px);
 }
-/*for the input text*/
- input{
-     padding:2%;
-     width:40%;
-     float:right;
-     margin-right:15%;
-    }
- /*for the answer paragraph*/
+
 #demo{
     text-align:center;
     font-size:24px;
