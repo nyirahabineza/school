@@ -53,5 +53,7 @@ function check() {
   else {
     text = "Not a Triangle.";
   }
-  document.getElementById("demo").innerHTML = text;
-}
+  document.getElementById("demo").innerHTML = "the values you enter are:" + " [" + array.join() + "]" + "<br> The triangle formed is";
+  document.getElementById("demo").innerHTML += text.toUpperCase();
+} 
+
