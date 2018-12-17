@@ -14,18 +14,19 @@ p {
 .table1 {
   width: 500px;
   height: 80px;
-  border: solid black
+  border: solid black;
   text-align: center;
 }
 
 .table2 {
+  border:solid black;
   width: 500px;
   height: 80px;
   text-align: center;
 }
 
 .table3 {
-  
+  border:solid black;
   width: 500px;
   height: 80px;
   text-align: center;
